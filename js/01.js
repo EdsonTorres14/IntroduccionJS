@@ -14,4 +14,5 @@ let precio;
 precio = 300;
 
 console.log(cliente);
+console.log(precioDescuento);
 console.log(precio);
