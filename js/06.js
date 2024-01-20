@@ -7,8 +7,8 @@ const producto = {
 }
 
 const cliente = {
-    nombre: 'Juan', 
-    premium: true 
+    nombre: 'Juan',
+    premium: true
 }
 
 const { nombre: nombreProducto } = producto
